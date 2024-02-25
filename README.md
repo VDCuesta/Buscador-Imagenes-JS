@@ -1,4 +1,5 @@
 # Buscador de imágenes
+Autor: Víctor Daniel Cuesta Moltó
 El proyecto consiste de un buscador de imágenes que hace uso del servicio de Unsplash y Tailwind para la maquetación de la aplicación.
 
 ### Documentación de Unsplash
